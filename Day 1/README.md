@@ -6,7 +6,7 @@ So we have to understand how an ;
 
     --> NMOS transistor works in resistive and saturation regions
 
-    --> NGSPICE can be used to simulate Id-Vds characteristics for different transistor sizes
+    --> how NGSPICE can be used to simulate Id-Vds characteristics for different transistor sizes
 
 Note : W/L is device size parameter                                                             
 Larger W -> More Current    

@@ -19,8 +19,7 @@
   <summary> Step 2 : Plot the graph </summary>
   We have to run the plot command to visualize the output voltage as the function of input voltage . <br>
   In ngspice terminal ; run the command : plot out vs in 
- <img width="1920" height="1080" alt="noise margin plotting" src="https://github.com/user-attachments/assets/ae3f7dc3-84ab-49d8-aa85-32669a81d65c" />
-
+ <img width="1920" height="1080" alt="noise_margin graph" src="https://github.com/user-attachments/assets/c5a34d2b-7bed-4d45-a8bb-50eecbeed29d" />
 
 </details>
 
@@ -30,7 +29,8 @@
    <summary> Step 3 : Analysis of the curve </summary>
   Here the curve shows us 4 major parameters : Input low voltage , Output High Voltage , Input High voltage , Output high voltage . <br>
   Click on the curve where the slope get -1 on both sides . 
-  <img width="1920" height="1080" alt="noise_margin graph" src="https://github.com/user-attachments/assets/a982acc1-6c3c-495e-88ff-c7e573d7021c" />
+ <img width="1920" height="1080" alt="noise margin plotting" src="https://github.com/user-attachments/assets/a6233938-2d4c-4f1f-810d-01b04d76a9e1" />
+
 Here the coordinates are respective parameters from the curve . <br>
 X0 = 0.777 V , Y0 = 1.696 V <br>
 X0 = 0.987 V , Y0 = 0.096 V <br>

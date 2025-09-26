@@ -19,7 +19,8 @@
   <summary> Step 2 : Plot the graph </summary>
   We have to run the plot command to visualize the output voltage as the function of input voltage . <br>
   In ngspice terminal ; run the command : plot out vs in 
-  <img width="1920" height="1080" alt="noise_margin graph" src="https://github.com/user-attachments/assets/f67955c6-5e4e-41fb-af16-d6f16b613b02" />
+ <img width="1920" height="1080" alt="noise margin plotting" src="https://github.com/user-attachments/assets/ae3f7dc3-84ab-49d8-aa85-32669a81d65c" />
+
 
 </details>
 

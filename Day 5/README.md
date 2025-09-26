@@ -40,4 +40,5 @@
   Then find the threshold voltage <br>
   <img width="1920" height="1080" alt="plotting day5device-variation" src="https://github.com/user-attachments/assets/471c10a2-38ec-4720-9eaf-99ead3ffe5bc" />
 
+ the switching threshold value is approximately = 0.98V
 </details>
